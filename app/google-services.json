@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "947349618906",
+    "project_id": "touristhelper-98abe",
+    "storage_bucket": "touristhelper-98abe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947349618906:android:8b678339497b304259a5e3",
+        "android_client_info": {
+          "package_name": "com.example.touristhelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947349618906-dt7j2j2qu9q3iu6vo3h5r18uq9m8g39i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDRSEGBdY1UJAF708jFQQky16vFYcPyi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947349618906-dt7j2j2qu9q3iu6vo3h5r18uq9m8g39i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
